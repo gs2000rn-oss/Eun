@@ -10,5 +10,11 @@
     "app_icon": "https://raw.githubusercontent.com/gs2000rn-oss/Eun/refs/heads/main/ic_launcher_foreground.png",
     "app_url": "https://github.com/gs2000rn-oss/Eun/raw/95dac608d57c8dc4c497a8e1f8bfe447a1300f84/Eun_5.2.1.apk",
     "app_desc": "Eun v5.2.1 Engin by Rinas"
-  }
+  },
+   {
+    "app_name": "TikTok",
+    "app_icon": "https://raw.githubusercontent.com/gs2000rn-oss/Eun/refs/heads/main/ic_launcher_foreground.png",
+    "app_url": "https://github.com/gs2000rn-oss/Eun/releases/download/V44.5.3/TikTok_44.5.3.apk",
+    "app_desc": "Mod Apk by Rinas"
+   } 
 ]
