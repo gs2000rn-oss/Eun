@@ -1,9 +1,14 @@
-
 [
   {
     "app_name": "Youtube",
-    "app_icon": "https://www.flaticon.com/free-icon/youtube_3670147?term=youtube&page=1&position=1&origin=search&related_id=3670147",
-    "app_url": "رابط_ملف_الـAPK_سأعلمك_كيف_تأخذه",
+    "app_icon": "https://cdn-icons-png.flaticon.com/512/1384/1384060.png",
+    "app_url": "https://raw.githubusercontent.com/gs2000rn-oss/Eun/main/store.json",
     "app_desc": "Youtube premium"
+  },
+  {
+    "app_name": "EVO OS",
+    "app_icon": "📱",
+    "app_url": "https://raw.githubusercontent.com/gs2000rn-oss/Eun/main/EVO%20OS_1.0.apk",
+    "app_desc": "تحديث النظام الجديد v1.0"
   }
 ]
