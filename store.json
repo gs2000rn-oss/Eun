@@ -17,5 +17,11 @@
     "app_icon": "https://cdn-icons-png.flaticon.com/512/1384/1384060.png",
     "app_url": "https://github.com/gs2000rn-oss/Eun/releases/download/V21.15.288/YouTube.Premium_21.15.288.apk",
     "app_desc": "Youtube premium v21.15.288"
+  },
+  {
+    "app_name": "MicroG v6.1.2",
+    "app_icon": "https://cdn-icons-png.flaticon.com/512/1384/1384060.png",
+    "app_url": "https://github.com/gs2000rn-oss/Eun/commits/main/MicroG%20RE_6.1.2.apk",
+    "app_desc": "Support Youtube v21.15.288"
   } 
 ]
