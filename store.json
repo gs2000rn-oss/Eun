@@ -1,10 +1,5 @@
 [
-  {
-    "app_name": "Youtube",
-    "app_icon": "https://cdn-icons-png.flaticon.com/512/1384/1384060.png",
-    "app_url": "https://github.com/gs2000rn-oss/Eun/releases/download/V21.15.288/YouTube.Premium_21.15.288.apk",
-    "app_desc": "Youtube premium v21.15.288"
-  },
+  
   {
     "app_name": "Eun",
     "app_icon": "https://raw.githubusercontent.com/gs2000rn-oss/Eun/refs/heads/main/ic_launcher_foreground.png",
@@ -16,5 +11,11 @@
     "app_icon": "https://raw.githubusercontent.com/gs2000rn-oss/Eun/refs/heads/main/tiktok.png",
     "app_url": "https://github.com/gs2000rn-oss/Eun/releases/download/V44.5.3/TikTok_44.5.3.apk",
     "app_desc": "Mod Apk v44.5.3"
-   } 
+   },
+  {
+    "app_name": "Youtube",
+    "app_icon": "https://cdn-icons-png.flaticon.com/512/1384/1384060.png",
+    "app_url": "https://github.com/gs2000rn-oss/Eun/releases/download/V21.15.288/YouTube.Premium_21.15.288.apk",
+    "app_desc": "Youtube premium v21.15.288"
+  } 
 ]
