@@ -23,5 +23,11 @@
     "app_icon": "https://raw.githubusercontent.com/gs2000rn-oss/Eun/refs/heads/main/MicroG_round.png",
     "app_url": "https://github.com/gs2000rn-oss/Eun/raw/refs/heads/main/MicroG%20RE_6.1.2.apk",
     "app_desc": "Support Youtube v21.15.288"
+  },
+    {
+    "app_name": "Mt Manager",
+    "app_icon": "https://raw.githubusercontent.com/gs2000rn-oss/Eun/refs/heads/main/Mt_Manager_Logo.png",
+    "app_url": "https://github.com/gs2000rn-oss/Eun/releases/download/2.26.2/MT.Manager_2.26.2.apk",
+    "app_desc": "Version 2.26.2"
   } 
 ]
