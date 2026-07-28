@@ -1,9 +1,7 @@
 {
-  "hisn_al_muslim": {
-    "title": "حصن المسلم من أذكار الكتاب والسنة",
-    "categories": [
-      {
-        "id": 1,
+  "categories": [
+    {
+      "id": 1,
         "title": "أذكار الاستيقاظ من النوم",
         "items": [
           {
