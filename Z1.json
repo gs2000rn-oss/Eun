@@ -9,6 +9,15 @@
     "app_size": "104 MB"
   },
   {
+    "app_name": "Gta San Andreas",
+    "app_icon": "https://raw.githubusercontent.com/gs2000rn-oss/Eun/refs/heads/main/32a47649e0e760663d2118f8538598ad.jpg",
+    "app_url": "",
+    "app_package": "com.rockstargames.gtasa",
+    "app_version": "4234641",
+    "app_desc": "Coming Soon",
+    "app_size": "2.44 Gb"
+  },
+  {
     "app_name": "PROTO VPN",
     "app_icon": "https://raw.githubusercontent.com/gs2000rn-oss/Eun/refs/heads/main/ic_launcher_foreground.png",
     "app_url": "Https://github.com/gs2000rn-oss/Eun/releases/download/5.19.72/Proton.VPN_5.19.72.0_Mod_Premium.apk",
