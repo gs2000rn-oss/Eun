@@ -20,11 +20,11 @@
   {
     "app_name": "Youtube",
     "app_icon": "https://cdn-icons-png.flaticon.com/512/1384/1384060.png",
-    "app_url": "https://github.com/gs2000rn-oss/Eun/releases/download/V21.15.288/YouTube.Premium_21.15.288.apk",
+    "app_url": "https://github.com/gs2000rn-oss/Eun/releases/download/21.21.90/YouTube.Morphe_21.21.91.apk",
     "app_package": "com.android.youtube.premium",
-    "app_version": "1561067086",
-    "app_desc": "Youtube premium v21.15.288",
-    "app_size": "104 MB"
+    "app_version": "2147483647",
+    "app_desc": "Youtube premium v21.21.91",
+    "app_size": "121.27MB"
   },
   {
     "app_name": "MicroG v6.1.2",
