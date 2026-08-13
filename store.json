@@ -1,92 +1,50 @@
 [
   {
     "app_name": "Cloudstream 3",
-    "app_icon": "https://cdn-icons-png.flaticon.com/512/1179/1179069.png",
-    "app_url": "https://github.com/re-cloudstream/cloudstream/releases/download/v4.4.1/cloudstream-app-release.apk",
+    "app_icon": "https://raw.githubusercontent.com/recloudstream/cloudstream/master/app/src/main/res/drawable/ic_launcher_foreground.png",
+    "app_url": "https://github.com/recloudstream/cloudstream/releases/download/v4.4.1/cloudstream-app-release.apk",
     "app_package": "com.lagradost.cloudstream3",
     "app_version": "441",
-    "app_desc": "Free Movies, TV Shows & Anime Streaming App",
+    "app_desc": "Movies & Anime Streaming App",
     "app_size": "28.5 MB"
   },
   {
     "app_name": "Stremio Mobile",
-    "app_icon": "https://cdn-icons-png.flaticon.com/512/3844/3844724.png",
+    "app_icon": "https://www.stremio.com/website/stremio-logo-small.png",
     "app_url": "https://dl.strem.io/android/v1.6.12/stremio-1.6.12-arm64-v8a.apk",
     "app_package": "com.stremio.one",
     "app_version": "1612",
-    "app_desc": "Watch Movies, Series, Anime and Live TV channels",
+    "app_desc": "Anime and Live TV channels",
     "app_size": "74.2 MB"
   },
   {
     "app_name": "SmartTube TV",
-    "app_icon": "https://cdn-icons-png.flaticon.com/512/1384/1384060.png",
+    "app_icon": "https://raw.githubusercontent.com/yuliskov/SmartTube/master/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png",
     "app_url": "https://github.com/yuliskov/SmartTube/releases/download/latest/smarttube_stable.apk",
     "app_package": "com.teamsmart.videomanager.tv",
     "app_version": "3120",
-    "app_desc": "No-Ads YouTube client for Android & Smart TV",
+    "app_desc": "for Android & Smart TV",
     "app_size": "21.0 MB"
   },
   {
     "app_name": "Seal Downloader",
-    "app_icon": "https://cdn-icons-png.flaticon.com/512/2989/2989988.png",
-    "app_url": "https://github.com/JunkFood02/Seal/releases/download/v1.12.1/Seal-1.12.1-arm64-v8a-release.apk",
+    "app_icon": "https://raw.githubusercontent.com/JunkFood02/Seal/main/fastlane/metadata/android/en-US/images/icon.png",
+    "app_url": "https://github.com/JunkFood02/Seal/releases/download/v1.9.3/Seal-1.9.3-arm64-v8a-release.apk",
     "app_package": "com.junkfood.seal",
-    "app_version": "11210",
-    "app_desc": "Download movies and videos from 1000+ sites",
+    "app_version": "1930",
+    "app_desc": "videos from 1000+ sites",
     "app_size": "18.6 MB"
   },
   {
-    "app_name": "NewPipe Stream",
-    "app_icon": "https://cdn-icons-png.flaticon.com/512/300/300221.png",
-    "app_url": "https://github.com/TeamNewPipe/NewPipe/releases/download/v0.28.3/NewPipe_v0.28.3.apk",
-    "app_package": "org.schabi.newpipe",
-    "app_version": "2830",
-    "app_desc": "Lightweight streaming player without ads",
-    "app_size": "11.5 MB"
-  },
-  {
     "app_name": "ViMusic Player",
-    "app_icon": "https://cdn-icons-png.flaticon.com/512/3616/3616930.png",
-    "app_url": "https://github.com/vfsfitvnm/ViMusic/releases/download/v0.5.4/app-release.apk",
-    "app_package": "com.vfsfitvnm.vimusic",
+    "app_icon": "https://raw.githubusercontent.com/vinesflow/vimusic/main/fastlane/metadata/android/en-US/images/icon.png",
+    "app_url": "https://github.com/vinesflow/vimusic/releases/download/v0.5.4/app-release.apk",
+    "app_package": "it.vincenzofamarco.vimusic",
     "app_version": "540",
-    "app_desc": "Unlimited background music player",
+    "app_desc": "music player",
     "app_size": "5.9 MB"
-  },
-  {
-    "app_name": "Spotube Music",
-    "app_icon": "https://cdn-icons-png.flaticon.com/512/2111/2111624.png",
-    "app_url": "https://github.com/KRTIN/spotube/releases/download/v3.8.0/Spotube-android-all.apk",
-    "app_package": "oss.krtin.spotube",
-    "app_version": "3800",
-    "app_desc": "Free music and audio streaming",
-    "app_size": "24.5 MB"
-  },
-  {
-    "app_name": "VLC Media Player",
-    "app_icon": "https://cdn-icons-png.flaticon.com/512/1179/1179069.png",
-    "app_url": "https://get.videolan.org/vlc-android/3.5.4/VLC-Android-3.5.4-arm64-v8a.apk",
-    "app_package": "org.videolan.vlc",
-    "app_version": "3540",
-    "app_desc": "Best player for movies, m3u IPTV & streams",
-    "app_size": "36.2 MB"
-  },
-  {
-    "app_name": "Proton VPN",
-    "app_icon": "https://cdn-icons-png.flaticon.com/512/6045/6045082.png",
-    "app_url": "https://github.com/ProtonVPN/android-app/releases/download/v5.4.82.0/ProtonVPN-5.4.82.0.apk",
-    "app_package": "ch.protonvpn.android",
-    "app_version": "805197200",
-    "app_desc": "High speed VPN for streaming and privacy",
-    "app_size": "43.2 MB"
-  },
-  {
-    "app_name": "MT Manager",
-    "app_icon": "https://cdn-icons-png.flaticon.com/512/3616/3616930.png",
-    "app_url": "https://github.com/gs2000rn-oss/Eun/releases/download/2.26.2/MT.Manager_2.26.2.apk",
-    "app_package": "bin.mt.plus",
-    "app_version": "2262",
-    "app_desc": "APK modifier and file manager",
+  }
+]
     "app_size": "71.0 MB"
   }
 ]
