@@ -1,6 +1,7 @@
 {
-  "update_url": "https://github.com/gs2000rn-oss/Eun/raw/refs/heads/main/updates.zip",
-  "version_code": 8,
-  "version_name": "7.0.1",
-  "release_notes": "تم إضافة ميزات التحديث الديناميكي وتحسين واجهة الصلاة"
+  "versionCode": 169278,
+  "versionName": "169277",
+  "releaseNotes": "• تحسينات وتدفق أسرع في الواجهة\n• إضافة ميزات صوت جديدة\n• إصلاح المشاكل والbug الإضافية",
+  "downloadUrl": "https://example.com/your-app-release.apk",
+  "forceUpdate": false
 }
