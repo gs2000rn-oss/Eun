@@ -1,57 +1,30 @@
 [
   {
-    "app_name": "Telegram Fork",
-    "app_icon": "https://cdn-icons-png.flaticon.com/512/2111/2111646.png",
-    "app_url": "https://github.com/forkgram/TelegramAndroid/releases/download/v10.13.0/ForkClient-v10.13.0.apk",
-    "app_package": "org.forkclient.messenger",
-    "app_version": "10130",
-    "app_desc": "Modded Telegram client with extra privacy features",
-    "app_size": "63.97 MB"
+    "app_name": "Cloudstream 3",
+    "app_icon": "https://cdn-icons-png.flaticon.com/512/1179/1179069.png",
+    "app_url": "https://github.com/re-cloudstream/cloudstream/releases/download/v4.4.1/cloudstream-app-release.apk",
+    "app_package": "com.lagradost.cloudstream3",
+    "app_version": "441",
+    "app_desc": "Free Movies, TV Shows & Anime Streaming App",
+    "app_size": "28.5 MB"
   },
   {
-    "app_name": "MicroG v6.1.2",
-    "app_icon": "https://cdn-icons-png.flaticon.com/512/300/300221.png",
-    "app_url": "https://github.com/microg/GmsCore/releases/download/v0.3.1.240913/com.google.android.gms-240913008.apk",
-    "app_package": "com.google.android.gms",
-    "app_version": "612",
-    "app_desc": "Support Youtube v21.15.288 & Google Services",
-    "app_size": "32.00 MB"
+    "app_name": "Stremio Mobile",
+    "app_icon": "https://cdn-icons-png.flaticon.com/512/3844/3844724.png",
+    "app_url": "https://dl.strem.io/android/v1.6.12/stremio-1.6.12-arm64-v8a.apk",
+    "app_package": "com.stremio.one",
+    "app_version": "1612",
+    "app_desc": "Watch Movies, Series, Anime and Live TV channels",
+    "app_size": "74.2 MB"
   },
   {
-    "app_name": "MT Manager",
-    "app_icon": "https://cdn-icons-png.flaticon.com/512/3616/3616930.png",
-    "app_url": "https://github.com/gs2000rn-oss/Eun/releases/download/2.26.2/MT.Manager_2.26.2.apk",
-    "app_package": "bin.mt.plus",
-    "app_version": "2262",
-    "app_desc": "Powerful file manager and APK editor tool",
-    "app_size": "71.00 MB"
-  },
-  {
-    "app_name": "Proton VPN",
-    "app_icon": "https://cdn-icons-png.flaticon.com/512/6045/6045082.png",
-    "app_url": "https://github.com/ProtonVPN/android-app/releases/download/v5.4.82.0/ProtonVPN-5.4.82.0.apk",
-    "app_package": "ch.protonvpn.android",
-    "app_version": "805197200",
-    "app_desc": "Enjoy fast, reliable connections with strict no-logs policy",
-    "app_size": "43.23 MB"
-  },
-  {
-    "app_name": "NewPipe",
+    "app_name": "SmartTube TV",
     "app_icon": "https://cdn-icons-png.flaticon.com/512/1384/1384060.png",
-    "app_url": "https://github.com/TeamNewPipe/NewPipe/releases/download/v0.27.2/NewPipe_v0.27.2.apk",
-    "app_package": "org.schabi.newpipe",
-    "app_version": "2720",
-    "app_desc": "Lightweight YouTube frontend with background play",
-    "app_size": "11.20 MB"
-  },
-  {
-    "app_name": "Termux",
-    "app_icon": "https://cdn-icons-png.flaticon.com/512/1005/1005141.png",
-    "app_url": "https://github.com/termux/termux-app/releases/download/v0.118.1/termux-app_v0.118.1+github-arm64-v8a.apk",
-    "app_package": "com.termux",
-    "app_version": "1181",
-    "app_desc": "Terminal emulator and Linux environment for Android",
-    "app_size": "97.50 MB"
+    "app_url": "https://github.com/yuliskov/SmartTube/releases/download/latest/smarttube_stable.apk",
+    "app_package": "com.teamsmart.videomanager.tv",
+    "app_version": "3120",
+    "app_desc": "No-Ads YouTube client for Android & Smart TV",
+    "app_size": "21.0 MB"
   },
   {
     "app_name": "Seal Downloader",
@@ -59,71 +32,35 @@
     "app_url": "https://github.com/JunkFood02/Seal/releases/download/v1.12.1/Seal-1.12.1-arm64-v8a-release.apk",
     "app_package": "com.junkfood.seal",
     "app_version": "11210",
-    "app_desc": "Video and audio downloader based on yt-dlp",
-    "app_size": "18.60 MB"
+    "app_desc": "Download movies and videos from 1000+ sites",
+    "app_size": "18.6 MB"
   },
   {
-    "app_name": "ViMusic",
-    "app_icon": "https://cdn-icons-png.flaticon.com/512/3844/3844724.png",
+    "app_name": "NewPipe Stream",
+    "app_icon": "https://cdn-icons-png.flaticon.com/512/300/300221.png",
+    "app_url": "https://github.com/TeamNewPipe/NewPipe/releases/download/v0.28.3/NewPipe_v0.28.3.apk",
+    "app_package": "org.schabi.newpipe",
+    "app_version": "2830",
+    "app_desc": "Lightweight streaming player without ads",
+    "app_size": "11.5 MB"
+  },
+  {
+    "app_name": "ViMusic Player",
+    "app_icon": "https://cdn-icons-png.flaticon.com/512/3616/3616930.png",
     "app_url": "https://github.com/vfsfitvnm/ViMusic/releases/download/v0.5.4/app-release.apk",
     "app_package": "com.vfsfitvnm.vimusic",
     "app_version": "540",
-    "app_desc": "An open source YouTube Music background player",
-    "app_size": "5.90 MB"
+    "app_desc": "Unlimited background music player",
+    "app_size": "5.9 MB"
   },
   {
-    "app_name": "Spotube",
+    "app_name": "Spotube Music",
     "app_icon": "https://cdn-icons-png.flaticon.com/512/2111/2111624.png",
     "app_url": "https://github.com/KRTIN/spotube/releases/download/v3.8.0/Spotube-android-all.apk",
     "app_package": "oss.krtin.spotube",
     "app_version": "3800",
-    "app_desc": "Open source client using Spotify API & YouTube audio",
-    "app_size": "24.50 MB"
-  },
-  {
-    "app_name": "Shizuku",
-    "app_icon": "https://cdn-icons-png.flaticon.com/512/2092/2092663.png",
-    "app_url": "https://github.com/Riru/Shizuku/releases/download/v13.5.4/Shizuku-v13.5.4.apk",
-    "app_package": "moe.shizuku.privileged.api",
-    "app_version": "13540",
-    "app_desc": "Use system APIs directly with Wireless ADB or Root",
-    "app_size": "4.10 MB"
-  },
-  {
-    "app_name": "Aurora Store",
-    "app_icon": "https://cdn-icons-png.flaticon.com/512/888/888857.png",
-    "app_url": "https://gitlab.com/AuroraOSS/AuroraStore/-/releases/v4.5.1/downloads/AuroraStore_4.5.1.apk",
-    "app_package": "com.aurora.store",
-    "app_version": "4510",
-    "app_desc": "Anonymous Google Play Store client alternative",
-    "app_size": "6.70 MB"
-  },
-  {
-    "app_name": "Brave Browser",
-    "app_icon": "https://cdn-icons-png.flaticon.com/512/732/732200.png",
-    "app_url": "https://github.com/brave/brave-browser/releases/download/v1.68.128/BraveMonoarm64.apk",
-    "app_package": "com.brave.browser",
-    "app_version": "168128",
-    "app_desc": "Fast and secure web browser with built-in ad block",
-    "app_size": "112.00 MB"
-  },
-  {
-    "app_name": "NetGuard Firewall",
-    "app_icon": "https://cdn-icons-png.flaticon.com/512/1161/1161388.png",
-    "app_url": "https://github.com/M66B/NetGuard/releases/download/2.310/NetGuard-v2.310-release.apk",
-    "app_package": "eu.faircode.netguard",
-    "app_version": "2310",
-    "app_desc": "Simple no-root per-app internet access blocker",
-    "app_size": "3.20 MB"
-  },
-  {
-    "app_name": "Aegis 2FA",
-    "app_icon": "https://cdn-icons-png.flaticon.com/512/2885/2885417.png",
-    "app_url": "https://github.com/beemdevelopment/Aegis/releases/download/v3.1/aegis-v3.1-universal.apk",
-    "app_package": "com.beemdevelopment.aegis",
-    "app_version": "3100",
-    "app_desc": "Secure and encrypted 2-factor authentication app",
-    "app_size": "11.80 MB"
+    "app_desc": "Free music and audio streaming",
+    "app_size": "24.5 MB"
   },
   {
     "app_name": "VLC Media Player",
@@ -131,52 +68,25 @@
     "app_url": "https://get.videolan.org/vlc-android/3.5.4/VLC-Android-3.5.4-arm64-v8a.apk",
     "app_package": "org.videolan.vlc",
     "app_version": "3540",
-    "app_desc": "Open source multimedia player for audio and video",
-    "app_size": "36.20 MB"
+    "app_desc": "Best player for movies, m3u IPTV & streams",
+    "app_size": "36.2 MB"
   },
   {
-    "app_name": "PPSSPP Emulator",
-    "app_icon": "https://cdn-icons-png.flaticon.com/512/686/686589.png",
-    "app_url": "https://www.ppsspp.org/files/1_17_1/ppsspp.apk",
-    "app_package": "org.ppsspp.ppsspp",
-    "app_version": "11710",
-    "app_desc": "Play PSP games on your Android device in HD",
-    "app_size": "15.90 MB"
+    "app_name": "Proton VPN",
+    "app_icon": "https://cdn-icons-png.flaticon.com/512/6045/6045082.png",
+    "app_url": "https://github.com/ProtonVPN/android-app/releases/download/v5.4.82.0/ProtonVPN-5.4.82.0.apk",
+    "app_package": "ch.protonvpn.android",
+    "app_version": "805197200",
+    "app_desc": "High speed VPN for streaming and privacy",
+    "app_size": "43.2 MB"
   },
   {
-    "app_name": "Bitwarden",
-    "app_icon": "https://cdn-icons-png.flaticon.com/512/3064/3064155.png",
-    "app_url": "https://github.com/bitwarden/mobile/releases/download/v2024.4.0/com.x86_64.bitwarden.apk",
-    "app_package": "com.x86_64.bitwarden",
-    "app_version": "20244",
-    "app_desc": "Open source password manager and secure vault",
-    "app_size": "34.20 MB"
-  },
-  {
-    "app_name": "Markor Notes",
-    "app_icon": "https://cdn-icons-png.flaticon.com/512/1150/1150592.png",
-    "app_url": "https://github.com/gsantner/markor/releases/download/v2.11.0/markor-v2.11.0.apk",
-    "app_package": "net.gsantner.markor",
-    "app_version": "2110",
-    "app_desc": "Text and Markdown offline note taking editor",
-    "app_size": "12.30 MB"
-  },
-  {
-    "app_name": "Simple Gallery Pro",
-    "app_icon": "https://cdn-icons-png.flaticon.com/512/1370/1370907.png",
-    "app_url": "https://github.com/SimpleMobileTools/Simple-Gallery/releases/download/v6.28.2/gallery-62802-pro-release.apk",
-    "app_package": "com.simplemobiletools.gallery.pro",
-    "app_version": "62802",
-    "app_desc": "Offline gallery manager with photo vault encryption",
-    "app_size": "18.10 MB"
-  },
-  {
-    "app_name": "Kvaesitso Launcher",
-    "app_icon": "https://cdn-icons-png.flaticon.com/512/3135/3135715.png",
-    "app_url": "https://github.com/MM2-0/Kvaesitso/releases/download/v1.6.2/kvaesitso-v1.6.2.apk",
-    "app_package": "de.mm20.launcher2",
-    "app_version": "1620",
-    "app_desc": "Search-focused minimal open source Android launcher",
-    "app_size": "8.40 MB"
+    "app_name": "MT Manager",
+    "app_icon": "https://cdn-icons-png.flaticon.com/512/3616/3616930.png",
+    "app_url": "https://github.com/gs2000rn-oss/Eun/releases/download/2.26.2/MT.Manager_2.26.2.apk",
+    "app_package": "bin.mt.plus",
+    "app_version": "2262",
+    "app_desc": "APK modifier and file manager",
+    "app_size": "71.0 MB"
   }
 ]
