@@ -1,47 +1,65 @@
 [
   {
-    "app_name": "Cloudstream 3",
-    "app_icon": "https://raw.githubusercontent.com/recloudstream/cloudstream/master/app/src/main/res/drawable/ic_launcher_foreground.png",
-    "app_url": "https://github.com/recloudstream/cloudstream/releases/download/v4.4.1/cloudstream-app-release.apk",
-    "app_package": "com.lagradost.cloudstream3",
-    "app_version": "441",
-    "app_desc": "Movies & Anime Streaming App",
-    "app_size": "28.5 MB"
+    "app_name": "Eun",
+    "app_icon": "https://raw.githubusercontent.com/gs2000rn-oss/Eun/refs/heads/main/ic_launcher_foreground.png",
+    "app_url": "https://github.com/gs2000rn-oss/Eun/raw/refs/heads/main/Eun_5.4.apk",
+    "app_package": "com.manager.eun",
+    "app_version": "7",
+    "app_desc": "New UI System 📥",
+    "app_size": "15 MB"
   },
   {
-    "app_name": "Stremio Mobile",
-    "app_icon": "https://www.stremio.com/website/stremio-logo-small.png",
-    "app_url": "https://dl.strem.io/android/v1.6.12/stremio-1.6.12-arm64-v8a.apk",
-    "app_package": "com.stremio.one",
-    "app_version": "1612",
-    "app_desc": "Anime and Live TV channels",
-    "app_size": "74.2 MB"
+    "app_name": "TikTok",
+    "app_icon": "https://raw.githubusercontent.com/gs2000rn-oss/Eun/refs/heads/main/tiktok.png",
+    "app_url": "https://github.com/gs2000rn-oss/Eun/releases/download/v44.5.3/TikTok_44.5.3.apk",
+    "app_package": "com.zhiliaoapp.musically",
+    "app_version": "45530",
+    "app_desc": "Mod Apk v44.5.3",
+    "app_size": "116 MB"
   },
   {
-    "app_name": "SmartTube TV",
-    "app_icon": "https://raw.githubusercontent.com/yuliskov/SmartTube/master/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png",
-    "app_url": "https://github.com/yuliskov/SmartTube/releases/download/latest/smarttube_stable.apk",
-    "app_package": "com.teamsmart.videomanager.tv",
-    "app_version": "3120",
-    "app_desc": "for Android & Smart TV",
-    "app_size": "21.0 MB"
+    "app_name": "Youtube",
+    "app_icon": "https://cdn-icons-png.flaticon.com/512/1384/1384060.png",
+    "app_url": "https://github.com/gs2000rn-oss/Eun/releases/download/21.21.91/YouTube.Morphe_21.21.91.apk",
+    "app_package": "com.android.youtube.premium",
+    "app_version": "83647",
+    "app_desc": "Youtube premium v21.21.91",
+    "app_size": "121.27MB"
   },
   {
-    "app_name": "Seal Downloader",
-    "app_icon": "https://raw.githubusercontent.com/JunkFood02/Seal/main/fastlane/metadata/android/en-US/images/icon.png",
-    "app_url": "https://github.com/JunkFood02/Seal/releases/download/v1.9.3/Seal-1.9.3-arm64-v8a-release.apk",
-    "app_package": "com.junkfood.seal",
-    "app_version": "1930",
-    "app_desc": "videos from 1000+ sites",
-    "app_size": "18.6 MB"
+    "app_name": "Telegram",
+    "app_icon": "https://raw.githubusercontent.com/gs2000rn-oss/Eun/refs/heads/main/Picsart_26-08-11_18-57-05-368.png",
+    "app_url": "https://github.com/forkgram/TelegramAndroid/releases/download/12.9.3.0/ForkClient.12.9.3.0.apk",
+    "app_package": "org.forkclient.messenger.beta",
+    "app_version": "695209",
+    "app_desc": "modded telegram",
+    "app_size": "63.97 MB"
   },
   {
-    "app_name": "ViMusic Player",
-    "app_icon": "https://raw.githubusercontent.com/vinesflow/vimusic/main/fastlane/metadata/android/en-US/images/icon.png",
-    "app_url": "https://github.com/vinesflow/vimusic/releases/download/v0.5.4/app-release.apk",
-    "app_package": "it.vincenzofamarco.vimusic",
-    "app_version": "540",
-    "app_desc": "music player",
-    "app_size": "5.9 MB"
+    "app_name": "MicroG v6.1.2",
+    "app_icon": "https://raw.githubusercontent.com/gs2000rn-oss/Eun/refs/heads/main/MicroG_round.png",
+    "app_url": "https://github.com/gs2000rn-oss/Eun/raw/refs/heads/main/MicroG%20RE_6.1.2.apk",
+    "app_package": "app.revanced.android.gms",
+    "app_version": "612",
+    "app_desc": "Support Youtube v21.15.288",
+    "app_size": "32 MB"
+  },
+  {
+    "app_name": "Mt Manager",
+    "app_icon": "https://raw.githubusercontent.com/gs2000rn-oss/Eun/refs/heads/main/Mt_Manager_Logo.png",
+    "app_url": "https://github.com/gs2000rn-oss/Eun/releases/download/2.26.2/Mt.Manager_2.26.2.apk",
+    "app_package": "bin.mt.plus",
+    "app_version": "2262",
+    "app_desc": "Version 2.26.2",
+    "app_size": "71 MB"
+  },
+  {
+    "app_name": "PROTO VPN",
+    "app_icon": "https://raw.githubusercontent.com/gs2000rn-oss/Eun/refs/heads/main/ic_launcher_foreground.png",
+    "app_url": "https://github.com/gs2000rn-oss/Eun/releases/download/5.19.72/Proton.VPN_5.19.72.0_Mod_Premium.apk",
+    "app_package": "ch.protonvpn.android",
+    "app_version": "805197200",
+    "app_desc": "Enjoy fast, reliable connections with our extensive VPN network, boasting 20,000+ servers in more than 140 countries.",
+    "app_size": "43.23 MB"
   }
 ]
