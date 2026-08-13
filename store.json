@@ -55,7 +55,7 @@
   },
   {
     "app_name": "PROTO VPN",
-    "app_icon": "https://raw.githubusercontent.com/gs2000rn-oss/Eun/refs/heads/main/ic_launcher_foreground.png",
+    "app_icon": "https://raw.githubusercontent.com/gs2000rn-oss/Eun/refs/heads/main/protonvpn-logo-horizontal.png",
     "app_url": "https://github.com/gs2000rn-oss/Eun/releases/download/5.19.72/Proton.VPN_5.19.72.0_Mod_Premium.apk",
     "app_package": "ch.protonvpn.android",
     "app_version": "90",
