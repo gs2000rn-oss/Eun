@@ -20,11 +20,11 @@
   {
     "app_name": "Youtube",
     "app_icon": "https://cdn-icons-png.flaticon.com/512/1384/1384060.png",
-    "app_url": "https://github.com/gs2000rn-oss/Eun/releases/download/21.21.91/YouTube.Morphe_21.21.91.apk",
+    "app_url": "https://github.com/gs2000rn-oss/Eun/releases/download/21.31.525/YouTube.Premium_21.31.525.apk",
     "app_package": "com.android.youtube.premium",
-    "app_version": "83647",
-    "app_desc": "Youtube premium v21.21.91",
-    "app_size": "121.27MB"
+    "app_version": "83648",
+    "app_desc": "Youtube premium v21.31.525",
+    "app_size": "118.02MB"
   },
   {
     "app_name": "Telegram",
