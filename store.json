@@ -1,902 +1,182 @@
 [
   {
-    "app_name": "Eun",
-    "app_icon": "https://raw.githubusercontent.com/gs2000rn-oss/Eun/refs/heads/main/ic_launcher_foreground.png",
-    "app_url": "https://github.com/gs2000rn-oss/Eun/raw/refs/heads/main/Eun_5.4.apk",
-    "app_package": "com.manager.eun",
-    "app_version": "7",
-    "app_desc": "New UI System 🚨",
-    "app_size": "15 MB"
-  },
-  {
-    "app_name": "TikTok",
-    "app_icon": "https://raw.githubusercontent.com/gs2000rn-oss/Eun/refs/heads/main/tiktok.png",
-    "app_url": "https://github.com/gs2000rn-oss/Eun/releases/download/v44.5.3/TikTok_44.5.3.apk",
-    "app_package": "com.zhiliaoapp.musically",
-    "app_version": "45530",
-    "app_desc": "Mod Apk v44.5.3",
-    "app_size": "116 MB"
-  },
-  {
-    "app_name": "Youtube",
-    "app_icon": "https://cdn-icons-png.flaticon.com/512/1384/1384060.png",
-    "app_url": "https://github.com/gs2000rn-oss/Eun/releases/download/21.21.91/YouTube.Morphe_21.21.91.apk",
-    "app_package": "com.android.youtube.premium",
-    "app_version": "83047",
-    "app_desc": "Youtube premium v21.21.91",
-    "app_size": "121.27 MB"
-  },
-  {
-    "app_name": "Telegram",
-    "app_icon": "https://raw.githubusercontent.com/gs2000rn-oss/Eun/refs/heads/main/Picsart_26-08-11_18-57-05-368.png",
-    "app_url": "https://github.com/forkgram/TelegramAndroid/releases/download/12.9.3.0/ForkClient.12.9.3.0.apk",
-    "app_package": "org.forkclient.messenger.beta",
-    "app_version": "695209",
-    "app_desc": "modded telegram",
+    "app_name": "Telegram Fork",
+    "app_icon": "https://cdn-icons-png.flaticon.com/512/2111/2111646.png",
+    "app_url": "https://github.com/forkgram/TelegramAndroid/releases/download/v10.13.0/ForkClient-v10.13.0.apk",
+    "app_package": "org.forkclient.messenger",
+    "app_version": "10130",
+    "app_desc": "Modded Telegram client with extra privacy features",
     "app_size": "63.97 MB"
   },
   {
     "app_name": "MicroG v6.1.2",
-    "app_icon": "https://raw.githubusercontent.com/gs2000rn-oss/Eun/refs/heads/main/MicroG_round.png",
-    "app_url": "https://github.com/gs2000rn-oss/Eun/raw/refs/heads/main/MicroG%20RE_6.1.2.apk",
-    "app_package": "app.revanced.android.gms",
+    "app_icon": "https://cdn-icons-png.flaticon.com/512/300/300221.png",
+    "app_url": "https://github.com/microg/GmsCore/releases/download/v0.3.1.240913/com.google.android.gms-240913008.apk",
+    "app_package": "com.google.android.gms",
     "app_version": "612",
-    "app_desc": "Support Youtube v21.15.288",
-    "app_size": "32 MB"
+    "app_desc": "Support Youtube v21.15.288 & Google Services",
+    "app_size": "32.00 MB"
   },
   {
-    "app_name": "Mt Manager",
-    "app_icon": "https://raw.githubusercontent.com/gs2000rn-oss/Eun/refs/heads/main/Mt_Manager_Logo.png",
+    "app_name": "MT Manager",
+    "app_icon": "https://cdn-icons-png.flaticon.com/512/3616/3616930.png",
     "app_url": "https://github.com/gs2000rn-oss/Eun/releases/download/2.26.2/MT.Manager_2.26.2.apk",
     "app_package": "bin.mt.plus",
     "app_version": "2262",
-    "app_desc": "Version 2.26.2",
-    "app_size": "71 MB"
+    "app_desc": "Powerful file manager and APK editor tool",
+    "app_size": "71.00 MB"
   },
   {
-    "app_name": "PROTO VPN",
-    "app_icon": "https://raw.githubusercontent.com/gs2000rn-oss/Eun/refs/heads/main/ic_launcher_foreground.png",
-    "app_url": "https://github.com/gs2000rn-oss/Eun/releases/download/5.19.72/Proton.VPN_5.19.72.0_Mod_Premium.apk",
+    "app_name": "Proton VPN",
+    "app_icon": "https://cdn-icons-png.flaticon.com/512/6045/6045082.png",
+    "app_url": "https://github.com/ProtonVPN/android-app/releases/download/v5.4.82.0/ProtonVPN-5.4.82.0.apk",
     "app_package": "ch.protonvpn.android",
     "app_version": "805197200",
-    "app_desc": "Enjoy fast, reliable connections with our extensive VPN network.",
+    "app_desc": "Enjoy fast, reliable connections with strict no-logs policy",
     "app_size": "43.23 MB"
   },
   {
-    "app_name": "11 Cell Network Changer",
-    "app_icon": "https://raw.githubusercontent.com/gs2000rn-oss/Eun/refs/heads/main/ic_launcher_foreground.png",
-    "app_url": "https://github.com/gs2000rn-oss/Eun/releases/download/v1.0/CellChanger.apk",
-    "app_package": "com.network.cellchanger",
-    "app_version": "100",
-    "app_desc": "Open the Android Phone info menu directly",
-    "app_size": "2.1 MB"
-  },
-  {
-    "app_name": "2fa Authenticator",
-    "app_icon": "https://raw.githubusercontent.com/gs2000rn-oss/Eun/refs/heads/main/ic_launcher_foreground.png",
-    "app_url": "https://github.com/gs2000rn-oss/Eun/releases/download/v1.0/2fa_Auth.apk",
-    "app_package": "com.auth.twofactor",
-    "app_version": "120",
-    "app_desc": "A two-factor authenticator built for speed",
-    "app_size": "5.4 MB"
-  },
-  {
-    "app_name": "32steps Volume",
-    "app_icon": "https://raw.githubusercontent.com/gs2000rn-oss/Eun/refs/heads/main/ic_launcher_foreground.png",
-    "app_url": "https://github.com/gs2000rn-oss/Eun/releases/download/v1.0/32steps.apk",
-    "app_package": "com.audio.volumesteps",
-    "app_version": "210",
-    "app_desc": "Custom volume steps for headphones",
-    "app_size": "3.8 MB"
-  },
-  {
-    "app_name": "5G Switcher",
-    "app_icon": "https://raw.githubusercontent.com/gs2000rn-oss/Eun/refs/heads/main/ic_launcher_foreground.png",
-    "app_url": "https://github.com/gs2000rn-oss/Eun/releases/download/v1.0/5G_Switcher.apk",
-    "app_package": "com.network.fivegonly",
-    "app_version": "105",
-    "app_desc": "A simple utility to force NR Only mode",
-    "app_size": "1.8 MB"
-  },
-  {
-    "app_name": "9Vim Keyboard",
-    "app_icon": "https://raw.githubusercontent.com/gs2000rn-oss/Eun/refs/heads/main/ic_launcher_foreground.png",
-    "app_url": "https://github.com/gs2000rn-oss/Eun/releases/download/v1.0/9Vim.apk",
-    "app_package": "com.keyboard.ninevim",
-    "app_version": "112",
-    "app_desc": "Vim style keyboard for Android",
-    "app_size": "4.2 MB"
-  },
-  {
-    "app_name": "WhatsApp Mod",
-    "app_icon": "https://raw.githubusercontent.com/gs2000rn-oss/Eun/refs/heads/main/ic_launcher_foreground.png",
-    "app_url": "https://github.com/gs2000rn-oss/Eun/releases/download/v2.24/WhatsApp_Mod.apk",
-    "app_package": "com.whatsapp.mod",
-    "app_version": "22410",
-    "app_desc": "Enhanced privacy features for WhatsApp",
-    "app_size": "58.4 MB"
-  },
-  {
-    "app_name": "Spotify Premium",
-    "app_icon": "https://raw.githubusercontent.com/gs2000rn-oss/Eun/refs/heads/main/ic_launcher_foreground.png",
-    "app_url": "https://github.com/gs2000rn-oss/Eun/releases/download/v8.9/Spotify_Mod.apk",
-    "app_package": "com.spotify.music.mod",
-    "app_version": "89010",
-    "app_desc": "Unlocked music streaming with ad-block",
-    "app_size": "74.1 MB"
-  },
-  {
-    "app_name": "Instagram Mod",
-    "app_icon": "https://raw.githubusercontent.com/gs2000rn-oss/Eun/refs/heads/main/ic_launcher_foreground.png",
-    "app_url": "https://github.com/gs2000rn-oss/Eun/releases/download/v300/Instagram_Mod.apk",
-    "app_package": "com.instagram.android.mod",
-    "app_version": "30012",
-    "app_desc": "Download media and hide story view",
-    "app_size": "68.3 MB"
-  },
-  {
-    "app_name": "ZArchiver Pro",
-    "app_icon": "https://raw.githubusercontent.com/gs2000rn-oss/Eun/refs/heads/main/ic_launcher_foreground.png",
-    "app_url": "https://github.com/gs2000rn-oss/Eun/releases/download/v1.0/ZArchiverPro.apk",
-    "app_package": "ru.zdevs.zarchiver.pro",
-    "app_version": "108",
-    "app_desc": "Archive management tool with password support",
-    "app_size": "5.2 MB"
+    "app_name": "NewPipe",
+    "app_icon": "https://cdn-icons-png.flaticon.com/512/1384/1384060.png",
+    "app_url": "https://github.com/TeamNewPipe/NewPipe/releases/download/v0.27.2/NewPipe_v0.27.2.apk",
+    "app_package": "org.schabi.newpipe",
+    "app_version": "2720",
+    "app_desc": "Lightweight YouTube frontend with background play",
+    "app_size": "11.20 MB"
   },
   {
     "app_name": "Termux",
-    "app_icon": "https://raw.githubusercontent.com/gs2000rn-oss/Eun/refs/heads/main/ic_launcher_foreground.png",
-    "app_url": "https://github.com/termux/termux-app/releases/download/v0.118.1/termux-app_v0.118.1.apk",
+    "app_icon": "https://cdn-icons-png.flaticon.com/512/1005/1005141.png",
+    "app_url": "https://github.com/termux/termux-app/releases/download/v0.118.1/termux-app_v0.118.1+github-arm64-v8a.apk",
     "app_package": "com.termux",
     "app_version": "1181",
-    "app_desc": "Terminal emulator and Linux environment",
-    "app_size": "97.5 MB"
-  },
-  {
-    "app_name": "AdGuard Premium",
-    "app_icon": "https://raw.githubusercontent.com/gs2000rn-oss/Eun/refs/heads/main/ic_launcher_foreground.png",
-    "app_url": "https://github.com/gs2000rn-oss/Eun/releases/download/v4.3/AdGuard_Mod.apk",
-    "app_package": "com.adguard.android",
-    "app_version": "4300",
-    "app_desc": "System-wide ad blocker and privacy protection",
-    "app_size": "31.8 MB"
-  },
-  {
-    "app_name": "Brave Browser",
-    "app_icon": "https://raw.githubusercontent.com/gs2000rn-oss/Eun/refs/heads/main/ic_launcher_foreground.png",
-    "app_url": "https://github.com/brave/brave-browser/releases/download/v1.65/Brave.apk",
-    "app_package": "com.brave.browser",
-    "app_version": "16510",
-    "app_desc": "Fast and secure web browser with built-in ad block",
-    "app_size": "112.0 MB"
-  },
-  {
-    "app_name": "Shizuku",
-    "app_icon": "https://raw.githubusercontent.com/gs2000rn-oss/Eun/refs/heads/main/ic_launcher_foreground.png",
-    "app_url": "https://github.com/Riru/Shizuku/releases/download/v13.5.4/Shizuku-v13.5.4.apk",
-    "app_package": "moe.shizuku.privileged.api",
-    "app_version": "13540",
-    "app_desc": "Use system APIs directly with ADB or Root",
-    "app_size": "4.1 MB"
-  },
-  {
-    "app_name": "F-Droid",
-    "app_icon": "https://raw.githubusercontent.com/gs2000rn-oss/Eun/refs/heads/main/ic_launcher_foreground.png",
-    "app_url": "https://f-droid.org/F-Droid.apk",
-    "app_package": "org.fdroid.fdroid",
-    "app_version": "1190",
-    "app_desc": "Open source Android app repository",
-    "app_size": "10.8 MB"
-  },
-  {
-    "app_name": "Aurora Store",
-    "app_icon": "https://raw.githubusercontent.com/gs2000rn-oss/Eun/refs/heads/main/ic_launcher_foreground.png",
-    "app_url": "https://gitlab.com/AuroraOSS/AuroraStore/-/releases/v4.4.1/AuroraStore_4.4.1.apk",
-    "app_package": "com.aurora.store",
-    "app_version": "4410",
-    "app_desc": "Open source Google Play client",
-    "app_size": "6.7 MB"
-  },
-  {
-    "app_name": "NewPipe",
-    "app_icon": "https://raw.githubusercontent.com/gs2000rn-oss/Eun/refs/heads/main/ic_launcher_foreground.png",
-    "app_url": "https://github.com/TeamNewPipe/NewPipe/releases/download/v0.27.0/NewPipe_v0.27.0.apk",
-    "app_package": "org.schabi.newpipe",
-    "app_version": "2700",
-    "app_desc": "Lightweight YouTube frontend without Google services",
-    "app_size": "11.2 MB"
+    "app_desc": "Terminal emulator and Linux environment for Android",
+    "app_size": "97.50 MB"
   },
   {
     "app_name": "Seal Downloader",
-    "app_icon": "https://raw.githubusercontent.com/gs2000rn-oss/Eun/refs/heads/main/ic_launcher_foreground.png",
-    "app_url": "https://github.com/JunkFood02/Seal/releases/download/v1.12.0/Seal-1.12.0.apk",
+    "app_icon": "https://cdn-icons-png.flaticon.com/512/2989/2989988.png",
+    "app_url": "https://github.com/JunkFood02/Seal/releases/download/v1.12.1/Seal-1.12.1-arm64-v8a-release.apk",
     "app_package": "com.junkfood.seal",
-    "app_version": "11200",
+    "app_version": "11210",
     "app_desc": "Video and audio downloader based on yt-dlp",
-    "app_size": "18.6 MB"
-  },
-  {
-    "app_name": "Tachiyomi",
-    "app_icon": "https://raw.githubusercontent.com/gs2000rn-oss/Eun/refs/heads/main/ic_launcher_foreground.png",
-    "app_url": "https://github.com/tachiyomiorg/tachiyomi/releases/download/v0.15.3/tachiyomi-v0.15.3.apk",
-    "app_package": "eu.kanade.tachiyomi",
-    "app_version": "1530",
-    "app_desc": "Free manga reader app for Android",
-    "app_size": "22.4 MB"
-  },
-  {
-    "app_name": "Aniyomi",
-    "app_icon": "https://raw.githubusercontent.com/gs2000rn-oss/Eun/refs/heads/main/ic_launcher_foreground.png",
-    "app_url": "https://github.com/aniyomiorg/aniyomi/releases/download/v0.16.2/aniyomi-v0.16.2.apk",
-    "app_package": "eu.kanade.aniyomi",
-    "app_version": "1620",
-    "app_desc": "Anime and manga player client",
-    "app_size": "25.1 MB"
-  },
-  {
-    "app_name": "PPSSPP Gold",
-    "app_icon": "https://raw.githubusercontent.com/gs2000rn-oss/Eun/refs/heads/main/ic_launcher_foreground.png",
-    "app_url": "https://github.com/hrydgard/ppsspp/releases/download/v1.17.1/PPSSPPGold.apk",
-    "app_package": "org.ppsspp.ppssppgold",
-    "app_version": "11710",
-    "app_desc": "PSP emulator for Android in HD",
-    "app_size": "15.9 MB"
-  },
-  {
-    "app_name": "AetherSX2",
-    "app_icon": "https://raw.githubusercontent.com/gs2000rn-oss/Eun/refs/heads/main/ic_launcher_foreground.png",
-    "app_url": "https://github.com/gs2000rn-oss/Eun/releases/download/v1.0/AetherSX2.apk",
-    "app_package": "xyz.aethersx2.android",
-    "app_version": "1410",
-    "app_desc": "PlayStation 2 emulator for Android",
-    "app_size": "18.3 MB"
-  },
-  {
-    "app_name": "Dolphin Emulator",
-    "app_icon": "https://raw.githubusercontent.com/gs2000rn-oss/Eun/refs/heads/main/ic_launcher_foreground.png",
-    "app_url": "https://dl.dolphin-emu.org/builds/dolphin-master-latest.apk",
-    "app_package": "org.dolphinemu.dolphinemu",
-    "app_version": "2403",
-    "app_desc": "GameCube and Wii console emulator",
-    "app_size": "21.7 MB"
-  },
-  {
-    "app_name": "RetroArch",
-    "app_icon": "https://raw.githubusercontent.com/gs2000rn-oss/Eun/refs/heads/main/ic_launcher_foreground.png",
-    "app_url": "https://buildbot.libretro.com/stable/1.17.0/android/RetroArch.apk",
-    "app_package": "com.retroarch",
-    "app_version": "11700",
-    "app_desc": "All-in-one retro gaming emulator frontend",
-    "app_size": "164.0 MB"
-  },
-  {
-    "app_name": "Lucky Patcher",
-    "app_icon": "https://raw.githubusercontent.com/gs2000rn-oss/Eun/refs/heads/main/ic_launcher_foreground.png",
-    "app_url": "https://github.com/gs2000rn-oss/Eun/releases/download/v1.0/LuckyPatcher.apk",
-    "app_package": "com.chelpus.lackypatch",
-    "app_version": "1090",
-    "app_desc": "Modify app permissions and remove ads",
-    "app_size": "10.2 MB"
-  },
-  {
-    "app_name": "APK Editor Pro",
-    "app_icon": "https://raw.githubusercontent.com/gs2000rn-oss/Eun/refs/heads/main/ic_launcher_foreground.png",
-    "app_url": "https://github.com/gs2000rn-oss/Eun/releases/download/v1.0/APKEditorPro.apk",
-    "app_package": "com.gm.apkeditor.pro",
-    "app_version": "201",
-    "app_desc": "Edit and modify APK binary files",
-    "app_size": "12.8 MB"
-  },
-  {
-    "app_name": "SD Maid Pro",
-    "app_icon": "https://raw.githubusercontent.com/gs2000rn-oss/Eun/refs/heads/main/ic_launcher_foreground.png",
-    "app_url": "https://github.com/gs2000rn-oss/Eun/releases/download/v1.0/SDMaidPro.apk",
-    "app_package": "eu.thedarken.sdm",
-    "app_version": "5590",
-    "app_desc": "System cleaning and file management tool",
-    "app_size": "8.9 MB"
-  },
-  {
-    "app_name": "Nova Launcher Prime",
-    "app_icon": "https://raw.githubusercontent.com/gs2000rn-oss/Eun/refs/heads/main/ic_launcher_foreground.png",
-    "app_url": "https://github.com/gs2000rn-oss/Eun/releases/download/v1.0/NovaLauncher.apk",
-    "app_package": "com.teslacoilsw.launcher.prime",
-    "app_version": "8080",
-    "app_desc": "Highly customizable home screen replacement",
-    "app_size": "12.1 MB"
-  },
-  {
-    "app_name": "Lawnchair 12",
-    "app_icon": "https://raw.githubusercontent.com/gs2000rn-oss/Eun/refs/heads/main/ic_launcher_foreground.png",
-    "app_url": "https://github.com/LawnchairLauncher/lawnchair/releases/download/v12.1.0/Lawnchair_12.1.0.apk",
-    "app_package": "app.lawnchair",
-    "app_version": "12100",
-    "app_desc": "Pixel style launcher with customizable options",
-    "app_size": "16.4 MB"
-  },
-  {
-    "app_name": "KWGT Kustom Widget",
-    "app_icon": "https://raw.githubusercontent.com/gs2000rn-oss/Eun/refs/heads/main/ic_launcher_foreground.png",
-    "app_url": "https://github.com/gs2000rn-oss/Eun/releases/download/v1.0/KWGT_Pro.apk",
-    "app_package": "org.kustom.widget.pro",
-    "app_version": "3750",
-    "app_desc": "Create custom Android widgets easily",
-    "app_size": "28.5 MB"
-  },
-  {
-    "app_name": "KLWP Live Wallpaper",
-    "app_icon": "https://raw.githubusercontent.com/gs2000rn-oss/Eun/refs/heads/main/ic_launcher_foreground.png",
-    "app_url": "https://github.com/gs2000rn-oss/Eun/releases/download/v1.0/KLWP_Pro.apk",
-    "app_package": "org.kustom.wallpaper.pro",
-    "app_version": "3750",
-    "app_desc": "Create custom animated live wallpapers",
-    "app_size": "32.1 MB"
-  },
-  {
-    "app_name": "PicsArt Gold",
-    "app_icon": "https://raw.githubusercontent.com/gs2000rn-oss/Eun/refs/heads/main/ic_launcher_foreground.png",
-    "app_url": "https://github.com/gs2000rn-oss/Eun/releases/download/v1.0/PicsArt_Gold.apk",
-    "app_package": "com.picsart.studio.gold",
-    "app_version": "2410",
-    "app_desc": "Unlocked photo editor and graphics designer",
-    "app_size": "75.4 MB"
-  },
-  {
-    "app_name": "Lightroom Premium",
-    "app_icon": "https://raw.githubusercontent.com/gs2000rn-oss/Eun/refs/heads/main/ic_launcher_foreground.png",
-    "app_url": "https://github.com/gs2000rn-oss/Eun/releases/download/v1.0/Lightroom_Mod.apk",
-    "app_package": "com.adobe.lrmobile.premium",
-    "app_version": "9200",
-    "app_desc": "Professional photo editor and color grading tool",
-    "app_size": "98.2 MB"
-  },
-  {
-    "app_name": "CapCut Mod",
-    "app_icon": "https://raw.githubusercontent.com/gs2000rn-oss/Eun/refs/heads/main/ic_launcher_foreground.png",
-    "app_url": "https://github.com/gs2000rn-oss/Eun/releases/download/v1.0/CapCut_Mod.apk",
-    "app_package": "com.lemon.lvoverseas.mod",
-    "app_version": "1140",
-    "app_desc": "Pro video editor with unlocked templates",
-    "app_size": "135.0 MB"
-  },
-  {
-    "app_name": "Alight Motion Pro",
-    "app_icon": "https://raw.githubusercontent.com/gs2000rn-oss/Eun/refs/heads/main/ic_launcher_foreground.png",
-    "app_url": "https://github.com/gs2000rn-oss/Eun/releases/download/v1.0/AlightMotion_Pro.apk",
-    "app_package": "com.alightcreative.motion.pro",
-    "app_version": "5000",
-    "app_desc": "Motion graphics and visual effects editor",
-    "app_size": "82.6 MB"
-  },
-  {
-    "app_name": "InShot Pro",
-    "app_icon": "https://raw.githubusercontent.com/gs2000rn-oss/Eun/refs/heads/main/ic_launcher_foreground.png",
-    "app_url": "https://github.com/gs2000rn-oss/Eun/releases/download/v1.0/InShot_Pro.apk",
-    "app_package": "com.camerasideas.instashot.pro",
-    "app_version": "2010",
-    "app_desc": "Video maker with no watermark and pro features",
-    "app_size": "64.0 MB"
-  },
-  {
-    "app_name": "Remini Pro",
-    "app_icon": "https://raw.githubusercontent.com/gs2000rn-oss/Eun/refs/heads/main/ic_launcher_foreground.png",
-    "app_url": "https://github.com/gs2000rn-oss/Eun/releases/download/v1.0/Remini_Pro.apk",
-    "app_package": "com.bigwinepot.nwdn.international.pro",
-    "app_version": "3700",
-    "app_desc": "AI Photo enhancer for low quality images",
-    "app_size": "52.3 MB"
-  },
-  {
-    "app_name": "KineMaster Pro",
-    "app_icon": "https://raw.githubusercontent.com/gs2000rn-oss/Eun/refs/heads/main/ic_launcher_foreground.png",
-    "app_url": "https://github.com/gs2000rn-oss/Eun/releases/download/v1.0/KineMaster_Pro.apk",
-    "app_package": "com.nexstreaming.app.kinemaster.free.pro",
-    "app_version": "7300",
-    "app_desc": "Full-featured multi-layer video editor",
-    "app_size": "95.1 MB"
-  },
-  {
-    "app_name": "Poweramp Full",
-    "app_icon": "https://raw.githubusercontent.com/gs2000rn-oss/Eun/refs/heads/main/ic_launcher_foreground.png",
-    "app_url": "https://github.com/gs2000rn-oss/Eun/releases/download/v1.0/Poweramp_Full.apk",
-    "app_package": "com.maxmpz.audioplayer.unlock",
-    "app_version": "9750",
-    "app_desc": "Powerful music player with custom equalizer",
-    "app_size": "17.4 MB"
-  },
-  {
-    "app_name": "MX Player Pro",
-    "app_icon": "https://raw.githubusercontent.com/gs2000rn-oss/Eun/refs/heads/main/ic_launcher_foreground.png",
-    "app_url": "https://github.com/gs2000rn-oss/Eun/releases/download/v1.0/MXPlayerPro.apk",
-    "app_package": "com.mxtech.videoplayer.pro",
-    "app_version": "1740",
-    "app_desc": "Hardware accelerated video player with subtitle support",
-    "app_size": "42.8 MB"
-  },
-  {
-    "app_name": "VLC for Android",
-    "app_icon": "https://raw.githubusercontent.com/gs2000rn-oss/Eun/refs/heads/main/ic_launcher_foreground.png",
-    "app_url": "https://get.videolan.org/vlc-android/3.5.4/VLC-Android-3.5.4.apk",
-    "app_package": "org.videolan.vlc",
-    "app_version": "3540",
-    "app_desc": "Open source multimedia player for all formats",
-    "app_size": "36.2 MB"
+    "app_size": "18.60 MB"
   },
   {
     "app_name": "ViMusic",
-    "app_icon": "https://raw.githubusercontent.com/gs2000rn-oss/Eun/refs/heads/main/ic_launcher_foreground.png",
+    "app_icon": "https://cdn-icons-png.flaticon.com/512/3844/3844724.png",
     "app_url": "https://github.com/vfsfitvnm/ViMusic/releases/download/v0.5.4/app-release.apk",
     "app_package": "com.vfsfitvnm.vimusic",
     "app_version": "540",
-    "app_desc": "An open source YouTube Music client",
-    "app_size": "5.9 MB"
+    "app_desc": "An open source YouTube Music background player",
+    "app_size": "5.90 MB"
   },
   {
     "app_name": "Spotube",
-    "app_icon": "https://raw.githubusercontent.com/gs2000rn-oss/Eun/refs/heads/main/ic_launcher_foreground.png",
-    "app_url": "https://github.com/KRTIN/spotube/releases/download/v3.5.0/Spotube-android-all.apk",
+    "app_icon": "https://cdn-icons-png.flaticon.com/512/2111/2111624.png",
+    "app_url": "https://github.com/KRTIN/spotube/releases/download/v3.8.0/Spotube-android-all.apk",
     "app_package": "oss.krtin.spotube",
-    "app_version": "3500",
-    "app_desc": "Open source Spotify client using YouTube track audio",
-    "app_size": "24.5 MB"
+    "app_version": "3800",
+    "app_desc": "Open source client using Spotify API & YouTube audio",
+    "app_size": "24.50 MB"
   },
   {
-    "app_name": "HTTP Injector",
-    "app_icon": "https://raw.githubusercontent.com/gs2000rn-oss/Eun/refs/heads/main/ic_launcher_foreground.png",
-    "app_url": "https://github.com/gs2000rn-oss/Eun/releases/download/v1.0/HTTP_Injector.apk",
-    "app_package": "com.evozi.injector",
-    "app_version": "590",
-    "app_desc": "Custom payload and SSH tunnel tool",
-    "app_size": "21.0 MB"
+    "app_name": "Shizuku",
+    "app_icon": "https://cdn-icons-png.flaticon.com/512/2092/2092663.png",
+    "app_url": "https://github.com/Riru/Shizuku/releases/download/v13.5.4/Shizuku-v13.5.4.apk",
+    "app_package": "moe.shizuku.privileged.api",
+    "app_version": "13540",
+    "app_desc": "Use system APIs directly with Wireless ADB or Root",
+    "app_size": "4.10 MB"
   },
   {
-    "app_name": "WireGuard",
-    "app_icon": "https://raw.githubusercontent.com/gs2000rn-oss/Eun/refs/heads/main/ic_launcher_foreground.png",
-    "app_url": "https://github.com/gs2000rn-oss/Eun/releases/download/v1.0/WireGuard.apk",
-    "app_package": "com.wireguard.android",
-    "app_version": "10200",
-    "app_desc": "Fast and modern secure VPN tunnel client",
-    "app_size": "8.4 MB"
+    "app_name": "Aurora Store",
+    "app_icon": "https://cdn-icons-png.flaticon.com/512/888/888857.png",
+    "app_url": "https://gitlab.com/AuroraOSS/AuroraStore/-/releases/v4.5.1/downloads/AuroraStore_4.5.1.apk",
+    "app_package": "com.aurora.store",
+    "app_version": "4510",
+    "app_desc": "Anonymous Google Play Store client alternative",
+    "app_size": "6.70 MB"
   },
   {
-    "app_name": "ExpressVPN Mod",
-    "app_icon": "https://raw.githubusercontent.com/gs2000rn-oss/Eun/refs/heads/main/ic_launcher_foreground.png",
-    "app_url": "https://github.com/gs2000rn-oss/Eun/releases/download/v1.0/ExpressVPN_Mod.apk",
-    "app_package": "com.expressvpn.vpn.mod",
-    "app_version": "1120",
-    "app_desc": "High speed unlimited VPN proxy service",
-    "app_size": "48.1 MB"
+    "app_name": "Brave Browser",
+    "app_icon": "https://cdn-icons-png.flaticon.com/512/732/732200.png",
+    "app_url": "https://github.com/brave/brave-browser/releases/download/v1.68.128/BraveMonoarm64.apk",
+    "app_package": "com.brave.browser",
+    "app_version": "168128",
+    "app_desc": "Fast and secure web browser with built-in ad block",
+    "app_size": "112.00 MB"
   },
   {
-    "app_name": "NordVPN Mod",
-    "app_icon": "https://raw.githubusercontent.com/gs2000rn-oss/Eun/refs/heads/main/ic_launcher_foreground.png",
-    "app_url": "https://github.com/gs2000rn-oss/Eun/releases/download/v1.0/NordVPN_Mod.apk",
-    "app_package": "com.nordvpn.android.mod",
-    "app_version": "680",
-    "app_desc": "Secure encryption VPN with global servers",
-    "app_size": "51.0 MB"
+    "app_name": "NetGuard Firewall",
+    "app_icon": "https://cdn-icons-png.flaticon.com/512/1161/1161388.png",
+    "app_url": "https://github.com/M66B/NetGuard/releases/download/2.310/NetGuard-v2.310-release.apk",
+    "app_package": "eu.faircode.netguard",
+    "app_version": "2310",
+    "app_desc": "Simple no-root per-app internet access blocker",
+    "app_size": "3.20 MB"
   },
   {
-    "app_name": "Orbot",
-    "app_icon": "https://raw.githubusercontent.com/gs2000rn-oss/Eun/refs/heads/main/ic_launcher_foreground.png",
-    "app_url": "https://github.com/guardianproject/Orbot/releases/download/17.1.1/Orbot-17.1.1.apk",
-    "app_package": "org.torproject.android",
-    "app_version": "17110",
-    "app_desc": "Tor proxy client for Android security",
-    "app_size": "29.7 MB"
+    "app_name": "Aegis 2FA",
+    "app_icon": "https://cdn-icons-png.flaticon.com/512/2885/2885417.png",
+    "app_url": "https://github.com/beemdevelopment/Aegis/releases/download/v3.1/aegis-v3.1-universal.apk",
+    "app_package": "com.beemdevelopment.aegis",
+    "app_version": "3100",
+    "app_desc": "Secure and encrypted 2-factor authentication app",
+    "app_size": "11.80 MB"
   },
   {
-    "app_name": "Tor Browser",
-    "app_icon": "https://raw.githubusercontent.com/gs2000rn-oss/Eun/refs/heads/main/ic_launcher_foreground.png",
-    "app_url": "https://github.com/gs2000rn-oss/Eun/releases/download/v1.0/TorBrowser.apk",
-    "app_package": "org.torproject.torbrowser",
-    "app_version": "1300",
-    "app_desc": "Official private web browser backed by Tor",
-    "app_size": "88.6 MB"
+    "app_name": "VLC Media Player",
+    "app_icon": "https://cdn-icons-png.flaticon.com/512/1179/1179069.png",
+    "app_url": "https://get.videolan.org/vlc-android/3.5.4/VLC-Android-3.5.4-arm64-v8a.apk",
+    "app_package": "org.videolan.vlc",
+    "app_version": "3540",
+    "app_desc": "Open source multimedia player for audio and video",
+    "app_size": "36.20 MB"
+  },
+  {
+    "app_name": "PPSSPP Emulator",
+    "app_icon": "https://cdn-icons-png.flaticon.com/512/686/686589.png",
+    "app_url": "https://www.ppsspp.org/files/1_17_1/ppsspp.apk",
+    "app_package": "org.ppsspp.ppsspp",
+    "app_version": "11710",
+    "app_desc": "Play PSP games on your Android device in HD",
+    "app_size": "15.90 MB"
   },
   {
     "app_name": "Bitwarden",
-    "app_icon": "https://raw.githubusercontent.com/gs2000rn-oss/Eun/refs/heads/main/ic_launcher_foreground.png",
-    "app_url": "https://github.com/bitwarden/mobile/releases/download/v2024.3.0/com.x86_64.bitwarden.apk",
+    "app_icon": "https://cdn-icons-png.flaticon.com/512/3064/3064155.png",
+    "app_url": "https://github.com/bitwarden/mobile/releases/download/v2024.4.0/com.x86_64.bitwarden.apk",
     "app_package": "com.x86_64.bitwarden",
-    "app_version": "20243",
-    "app_desc": "Open source password manager and vault",
-    "app_size": "34.2 MB"
+    "app_version": "20244",
+    "app_desc": "Open source password manager and secure vault",
+    "app_size": "34.20 MB"
   },
   {
-    "app_name": "Aegis Authenticator",
-    "app_icon": "https://raw.githubusercontent.com/gs2000rn-oss/Eun/refs/heads/main/ic_launcher_foreground.png",
-    "app_url": "https://github.com/beemdevelopment/Aegis/releases/download/v3.0.1/aegis-v3.0.1.apk",
-    "app_package": "com.beemdevelopment.aegis",
-    "app_version": "3010",
-    "app_desc": "Secure open source app for 2FA tokens",
-    "app_size": "11.8 MB"
-  },
-  {
-    "app_name": "NetGuard",
-    "app_icon": "https://raw.githubusercontent.com/gs2000rn-oss/Eun/refs/heads/main/ic_launcher_foreground.png",
-    "app_url": "https://github.com/M66B/NetGuard/releases/download/2.308/NetGuard-v2.308-release.apk",
-    "app_package": "eu.faircode.netguard",
-    "app_version": "2308",
-    "app_desc": "No-root firewall for blocking internet per app",
-    "app_size": "3.2 MB"
-  },
-  {
-    "app_name": "LADB - Local ADB",
-    "app_icon": "https://raw.githubusercontent.com/gs2000rn-oss/Eun/refs/heads/main/ic_launcher_foreground.png",
-    "app_url": "https://github.com/gs2000rn-oss/Eun/releases/download/v1.0/LADB.apk",
-    "app_package": "com.cgollner.localadb",
-    "app_version": "231",
-    "app_desc": "Run local ADB commands without PC via Wireless Debugging",
-    "app_size": "4.8 MB"
-  },
-  {
-    "app_name": "Brevent",
-    "app_icon": "https://raw.githubusercontent.com/gs2000rn-oss/Eun/refs/heads/main/ic_launcher_foreground.png",
-    "app_url": "https://github.com/gs2000rn-oss/Eun/releases/download/v1.0/Brevent.apk",
-    "app_package": "me.piebridge.brevent",
-    "app_version": "4220",
-    "app_desc": "Prevent background running applications without root",
-    "app_size": "3.5 MB"
-  },
-  {
-    "app_name": "Franco Kernel Manager",
-    "app_icon": "https://raw.githubusercontent.com/gs2000rn-oss/Eun/refs/heads/main/ic_launcher_foreground.png",
-    "app_url": "https://github.com/gs2000rn-oss/Eun/releases/download/v1.0/FKM.apk",
-    "app_package": "com.franco.kernel",
-    "app_version": "6200",
-    "app_desc": "Complete tool for custom kernel tweaking",
-    "app_size": "14.1 MB"
-  },
-  {
-    "app_name": "Ice Box",
-    "app_icon": "https://raw.githubusercontent.com/gs2000rn-oss/Eun/refs/heads/main/ic_launcher_foreground.png",
-    "app_url": "https://github.com/gs2000rn-oss/Eun/releases/download/v1.0/IceBox_Pro.apk",
-    "app_package": "com.catchingnow.icebox",
-    "app_version": "3200",
-    "app_desc": "Freeze rarely used apps to save battery and RAM",
-    "app_size": "5.6 MB"
-  },
-  {
-    "app_name": "Greenify",
-    "app_icon": "https://raw.githubusercontent.com/gs2000rn-oss/Eun/refs/heads/main/ic_launcher_foreground.png",
-    "app_url": "https://github.com/gs2000rn-oss/Eun/releases/download/v1.0/Greenify_Donate.apk",
-    "app_package": "com.oasisfeng.greenify",
-    "app_version": "4750",
-    "app_desc": "Hibernate background battery draining applications",
-    "app_size": "4.2 MB"
-  },
-  {
-    "app_name": "Solid Explorer",
-    "app_icon": "https://raw.githubusercontent.com/gs2000rn-oss/Eun/refs/heads/main/ic_launcher_foreground.png",
-    "app_url": "https://github.com/gs2000rn-oss/Eun/releases/download/v1.0/SolidExplorer_Full.apk",
-    "app_package": "pl.solidexplorer2",
-    "app_version": "2830",
-    "app_desc": "Dual panel file manager with cloud encryption",
-    "app_size": "21.6 MB"
-  },
-  {
-    "app_name": "MiXplorer Silver",
-    "app_icon": "https://raw.githubusercontent.com/gs2000rn-oss/Eun/refs/heads/main/ic_launcher_foreground.png",
-    "app_url": "https://github.com/gs2000rn-oss/Eun/releases/download/v1.0/MiXplorer_Silver.apk",
-    "app_package": "com.mixplorer.silver",
-    "app_version": "6650",
-    "app_desc": "Feature-packed file manager with archiver and player",
-    "app_size": "13.9 MB"
-  },
-  {
-    "app_name": "QuickEdit Pro",
-    "app_icon": "https://raw.githubusercontent.com/gs2000rn-oss/Eun/refs/heads/main/ic_launcher_foreground.png",
-    "app_url": "https://github.com/gs2000rn-oss/Eun/releases/download/v1.0/QuickEdit_Pro.apk",
-    "app_package": "com.rhmsoft.edit.pro",
-    "app_version": "1980",
-    "app_desc": "Fast text and code editor for Android with syntax highlighting",
-    "app_size": "9.1 MB"
-  },
-  {
-    "app_name": "Markor",
-    "app_icon": "https://raw.githubusercontent.com/gs2000rn-oss/Eun/refs/heads/main/ic_launcher_foreground.png",
+    "app_name": "Markor Notes",
+    "app_icon": "https://cdn-icons-png.flaticon.com/512/1150/1150592.png",
     "app_url": "https://github.com/gsantner/markor/releases/download/v2.11.0/markor-v2.11.0.apk",
     "app_package": "net.gsantner.markor",
     "app_version": "2110",
-    "app_desc": "Lightweight text editor with Markdown support",
-    "app_size": "12.3 MB"
-  },
-  {
-    "app_name": "Obsidian",
-    "app_icon": "https://raw.githubusercontent.com/gs2000rn-oss/Eun/refs/heads/main/ic_launcher_foreground.png",
-    "app_url": "https://github.com/obsidianmd/obsidian-releases/releases/download/v1.5.12/Obsidian-1.5.12.apk",
-    "app_package": "md.obsidian",
-    "app_version": "15120",
-    "app_desc": "Knowledge base and second brain note taking application",
-    "app_size": "26.8 MB"
-  },
-  {
-    "app_name": "Notion",
-    "app_icon": "https://raw.githubusercontent.com/gs2000rn-oss/Eun/refs/heads/main/ic_launcher_foreground.png",
-    "app_url": "https://github.com/gs2000rn-oss/Eun/releases/download/v1.0/Notion.apk",
-    "app_package": "notion.id",
-    "app_version": "01200",
-    "app_desc": "All-in-one workspace for notes, docs, and tasks",
-    "app_size": "45.0 MB"
-  },
-  {
-    "app_name": "WPS Office Premium",
-    "app_icon": "https://raw.githubusercontent.com/gs2000rn-oss/Eun/refs/heads/main/ic_launcher_foreground.png",
-    "app_url": "https://github.com/gs2000rn-oss/Eun/releases/download/v1.0/WPS_Office_Mod.apk",
-    "app_package": "cn.wps.moffice_eng.premium",
-    "app_version": "1840",
-    "app_desc": "All-in-one mobile office suite for Word, PDF, Excel",
-    "app_size": "142.0 MB"
-  },
-  {
-    "app_name": "Moon+ Reader Pro",
-    "app_icon": "https://raw.githubusercontent.com/gs2000rn-oss/Eun/refs/heads/main/ic_launcher_foreground.png",
-    "app_url": "https://github.com/gs2000rn-oss/Eun/releases/download/v1.0/MoonReader_Pro.apk",
-    "app_package": "com.flyersoft.moonreaderp",
-    "app_version": "8500",
-    "app_desc": "Ebook reader with customizable controls and themes",
-    "app_size": "34.5 MB"
-  },
-  {
-    "app_name": "ReadEra Premium",
-    "app_icon": "https://raw.githubusercontent.com/gs2000rn-oss/Eun/refs/heads/main/ic_launcher_foreground.png",
-    "app_url": "https://github.com/gs2000rn-oss/Eun/releases/download/v1.0/ReadEra_Premium.apk",
-    "app_package": "org.readera.premium",
-    "app_version": "2300",
-    "app_desc": "Offline book and document reader with sync features",
-    "app_size": "22.0 MB"
+    "app_desc": "Text and Markdown offline note taking editor",
+    "app_size": "12.30 MB"
   },
   {
     "app_name": "Simple Gallery Pro",
-    "app_icon": "https://raw.githubusercontent.com/gs2000rn-oss/Eun/refs/heads/main/ic_launcher_foreground.png",
+    "app_icon": "https://cdn-icons-png.flaticon.com/512/1370/1370907.png",
     "app_url": "https://github.com/SimpleMobileTools/Simple-Gallery/releases/download/v6.28.2/gallery-62802-pro-release.apk",
     "app_package": "com.simplemobiletools.gallery.pro",
     "app_version": "62802",
-    "app_desc": "Offline gallery for photo and video management",
-    "app_size": "18.1 MB"
+    "app_desc": "Offline gallery manager with photo vault encryption",
+    "app_size": "18.10 MB"
   },
   {
-    "app_name": "Volume Styles",
-    "app_icon": "https://raw.githubusercontent.com/gs2000rn-oss/Eun/refs/heads/main/ic_launcher_foreground.png",
-    "app_url": "https://github.com/gs2000rn-oss/Eun/releases/download/v1.0/VolumeStyles_Premium.apk",
-    "app_package": "com.tom.volumestyles.premium",
-    "app_version": "3100",
-    "app_desc": "Customize volume slider panel UI and themes",
-    "app_size": "7.8 MB"
-  },
-  {
-    "app_name": "DynamicSpot",
-    "app_icon": "https://raw.githubusercontent.com/gs2000rn-oss/Eun/refs/heads/main/ic_launcher_foreground.png",
-    "app_url": "https://github.com/gs2000rn-oss/Eun/releases/download/v1.0/DynamicSpot_Pro.apk",
-    "app_package": "com.jamal2357.dynamicspot.pro",
-    "app_version": "1700",
-    "app_desc": "Dynamic Island style notification popup on Android",
-    "app_size": "5.3 MB"
-  },
-  {
-    "app_name": "Substratum",
-    "app_icon": "https://raw.githubusercontent.com/gs2000rn-oss/Eun/refs/heads/main/ic_launcher_foreground.png",
-    "app_url": "https://github.com/gs2000rn-oss/Eun/releases/download/v1.0/Substratum.apk",
-    "app_package": "projekt.substratum",
-    "app_version": "1030",
-    "app_desc": "System-wide theme engine for rooted devices",
-    "app_size": "11.7 MB"
-  },
-  {
-    "app_name": "Repainter",
-    "app_icon": "https://raw.githubusercontent.com/gs2000rn-oss/Eun/refs/heads/main/ic_launcher_foreground.png",
-    "app_url": "https://github.com/gs2000rn-oss/Eun/releases/download/v1.0/Repainter.apk",
-    "app_package": "dev.kdrag0n.dyntheme",
-    "app_version": "2100",
-    "app_desc": "Custom Material You dynamic theme customization",
-    "app_size": "6.1 MB"
-  },
-  {
-    "app_name": "PingTools Pro",
-    "app_icon": "https://raw.githubusercontent.com/gs2000rn-oss/Eun/refs/heads/main/ic_launcher_foreground.png",
-    "app_url": "https://github.com/gs2000rn-oss/Eun/releases/download/v1.0/PingTools_Pro.apk",
-    "app_package": "ua.com.kpro.pingtools.pro",
-    "app_version": "4520",
-    "app_desc": "Set of network diagnostic utilities and port scanner",
-    "app_size": "9.4 MB"
-  },
-  {
-    "app_name": "Network Cell Info Pro",
-    "app_icon": "https://raw.githubusercontent.com/gs2000rn-oss/Eun/refs/heads/main/ic_launcher_foreground.png",
-    "app_url": "https://github.com/gs2000rn-oss/Eun/releases/download/v1.0/NetworkCellInfo.apk",
-    "app_package": "com.mobiwf.networkcellinfo.pro",
-    "app_version": "6010",
-    "app_desc": "Cellular network monitoring and signal tracking",
-    "app_size": "14.8 MB"
-  },
-  {
-    "app_name": "Speedtest Premium",
-    "app_icon": "https://raw.githubusercontent.com/gs2000rn-oss/Eun/refs/heads/main/ic_launcher_foreground.png",
-    "app_url": "https://github.com/gs2000rn-oss/Eun/releases/download/v1.0/Speedtest_Mod.apk",
-    "app_package": "com.ookla.speedtest.mod",
-    "app_version": "5300",
-    "app_desc": "Test internet speed and latency with ad-free experience",
-    "app_size": "31.2 MB"
-  },
-  {
-    "app_name": "WiFi Analyzer",
-    "app_icon": "https://raw.githubusercontent.com/gs2000rn-oss/Eun/refs/heads/main/ic_launcher_foreground.png",
-    "app_url": "https://github.com/VREM-Software/wifi-analyzer/releases/download/v3.1.1/wifi-analyzer.apk",
-    "app_package": "com.vrem.wifianalyzer",
-    "app_version": "3110",
-    "app_desc": "Optimize your Wi-Fi network with channel graph analysis",
-    "app_size": "3.9 MB"
-  },
-  {
-    "app_name": "Device Info HW",
-    "app_icon": "https://raw.githubusercontent.com/gs2000rn-oss/Eun/refs/heads/main/ic_launcher_foreground.png",
-    "app_url": "https://github.com/gs2000rn-oss/Eun/releases/download/v1.0/DeviceInfoHW_Pro.apk",
-    "app_package": "ru.org.ora.deviceinfo.pro",
-    "app_version": "5700",
-    "app_desc": "Detailed hardware and software specs of your device",
-    "app_size": "3.1 MB"
-  },
-  {
-    "app_name": "CPU-Z",
-    "app_icon": "https://raw.githubusercontent.com/gs2000rn-oss/Eun/refs/heads/main/ic_launcher_foreground.png",
-    "app_url": "https://github.com/gs2000rn-oss/Eun/releases/download/v1.0/CPU_Z.apk",
-    "app_package": "com.cpuid.cpu_z",
-    "app_version": "1430",
-    "app_desc": "Processor and system information monitor",
-    "app_size": "2.8 MB"
-  },
-  {
-    "app_name": "AccuBattery Pro",
-    "app_icon": "https://raw.githubusercontent.com/gs2000rn-oss/Eun/refs/heads/main/ic_launcher_foreground.png",
-    "app_url": "https://github.com/gs2000rn-oss/Eun/releases/download/v1.0/AccuBattery_Pro.apk",
-    "app_package": "com.digibites.accubattery.pro",
-    "app_version": "2110",
-    "app_desc": "Monitor battery health, capacity, and usage metrics",
-    "app_size": "10.4 MB"
-  },
-  {
-    "app_name": "Ampere Pro",
-    "app_icon": "https://raw.githubusercontent.com/gs2000rn-oss/Eun/refs/heads/main/ic_launcher_foreground.png",
-    "app_url": "https://github.com/gs2000rn-oss/Eun/releases/download/v1.0/Ampere_Pro.apk",
-    "app_package": "com.graphtrianced.ampere.pro",
-    "app_version": "4120",
-    "app_desc": "Measure charging speed and current in real time",
-    "app_size": "7.2 MB"
-  },
-  {
-    "app_name": "HappyMod",
-    "app_icon": "https://raw.githubusercontent.com/gs2000rn-oss/Eun/refs/heads/main/ic_launcher_foreground.png",
-    "app_url": "https://github.com/gs2000rn-oss/Eun/releases/download/v1.0/HappyMod.apk",
-    "app_package": "com.happymod.apk",
-    "app_version": "3020",
-    "app_desc": "Store for modified Android games and applications",
-    "app_size": "14.6 MB"
-  },
-  {
-    "app_name": "GameGuardian",
-    "app_icon": "https://raw.githubusercontent.com/gs2000rn-oss/Eun/refs/heads/main/ic_launcher_foreground.png",
-    "app_url": "https://github.com/gs2000rn-oss/Eun/releases/download/v1.0/GameGuardian.apk",
-    "app_package": "net.gameguardian.gg",
-    "app_version": "1011",
-    "app_desc": "Game modifier tool for value manipulation",
-    "app_size": "19.8 MB"
-  },
-  {
-    "app_name": "Winlator",
-    "app_icon": "https://raw.githubusercontent.com/gs2000rn-oss/Eun/refs/heads/main/ic_launcher_foreground.png",
-    "app_url": "https://github.com/brunodev85/winlator/releases/download/v6.1/Winlator_6.1.apk",
-    "app_package": "com.winlator",
-    "app_version": "6100",
-    "app_desc": "Run Windows x86 applications on Android using Wine",
-    "app_size": "178.0 MB"
-  },
-  {
-    "app_name": "Citra Emulator",
-    "app_icon": "https://raw.githubusercontent.com/gs2000rn-oss/Eun/refs/heads/main/ic_launcher_foreground.png",
-    "app_url": "https://github.com/gs2000rn-oss/Eun/releases/download/v1.0/Citra_MMJ.apk",
-    "app_package": "org.citra.emu",
-    "app_version": "2100",
-    "app_desc": "Nintendo 3DS emulator for Android",
-    "app_size": "16.8 MB"
-  },
-  {
-    "app_name": "Yuzu Emulator",
-    "app_icon": "https://raw.githubusercontent.com/gs2000rn-oss/Eun/refs/heads/main/ic_launcher_foreground.png",
-    "app_url": "https://github.com/gs2000rn-oss/Eun/releases/download/v1.0/Yuzu_EA.apk",
-    "app_package": "org.yuzu.yuzu_emu.ea",
-    "app_version": "2780",
-    "app_desc": "Nintendo Switch emulator for high-end Android devices",
-    "app_size": "24.1 MB"
-  },
-  {
-    "app_name": "Vita3K",
-    "app_icon": "https://raw.githubusercontent.com/gs2000rn-oss/Eun/refs/heads/main/ic_launcher_foreground.png",
-    "app_url": "https://github.com/Vita3K/Vita3K-Android/releases/download/v11/Vita3K-v11.apk",
-    "app_package": "org.vita3k.emulator",
-    "app_version": "1100",
-    "app_desc": "Experimental PS Vita emulator for Android",
-    "app_size": "19.4 MB"
-  },
-  {
-    "app_name": "Skyline Emulator",
-    "app_icon": "https://raw.githubusercontent.com/gs2000rn-oss/Eun/refs/heads/main/ic_launcher_foreground.png",
-    "app_url": "https://github.com/gs2000rn-oss/Eun/releases/download/v1.0/Skyline_Edge.apk",
-    "app_package": "skyline.emu",
-    "app_version": "6900",
-    "app_desc": "Fast open source Nintendo Switch emulator",
-    "app_size": "13.2 MB"
-  },
-  {
-    "app_name": "Kiwi Browser",
-    "app_icon": "https://raw.githubusercontent.com/gs2000rn-oss/Eun/refs/heads/main/ic_launcher_foreground.png",
-    "app_url": "https://github.com/kiwibrowser/src.next/releases/download/124.0.6367.12/Kiwi_Browser.apk",
-    "app_package": "com.kiwibrowser.browser",
-    "app_version": "1240",
-    "app_desc": "Chromium browser with desktop Chrome extension support",
-    "app_size": "105.0 MB"
-  },
-  {
-    "app_name": "Firefox Nightly",
-    "app_icon": "https://raw.githubusercontent.com/gs2000rn-oss/Eun/refs/heads/main/ic_launcher_foreground.png",
-    "app_url": "https://github.com/gs2000rn-oss/Eun/releases/download/v1.0/Firefox_Nightly.apk",
-    "app_package": "org.mozilla.fenix",
-    "app_version": "1260",
-    "app_desc": "Experimental Firefox browser with custom add-on collection",
-    "app_size": "85.2 MB"
-  },
-  {
-    "app_name": "Via Browser",
-    "app_icon": "https://raw.githubusercontent.com/gs2000rn-oss/Eun/refs/heads/main/ic_launcher_foreground.png",
-    "app_url": "https://github.com/gs2000rn-oss/Eun/releases/download/v1.0/ViaBrowser.apk",
-    "app_package": "mark.via.gp",
-    "app_version": "5200",
-    "app_desc": "Ultra lightweight and customizable fast browser",
-    "app_size": "1.5 MB"
-  },
-  {
-    "app_name": "X-plore File Manager",
-    "app_icon": "https://raw.githubusercontent.com/gs2000rn-oss/Eun/refs/heads/main/ic_launcher_foreground.png",
-    "app_url": "https://github.com/gs2000rn-oss/Eun/releases/download/v1.0/Xplore_Donate.apk",
-    "app_package": "com.lonelycatgames.Xplore.donate",
-    "app_version": "4380",
-    "app_desc": "Dual pane tree view file manager with FTP/Wi-Fi sharing",
-    "app_size": "11.1 MB"
-  },
-  {
-    "app_name": "AppCloner Premium",
-    "app_icon": "https://raw.githubusercontent.com/gs2000rn-oss/Eun/refs/heads/main/ic_launcher_foreground.png",
-    "app_url": "https://github.com/gs2000rn-oss/Eun/releases/download/v1.0/AppCloner_Premium.apk",
-    "app_package": "com.applisto.appcloner.premium",
-    "app_version": "2160",
-    "app_desc": "Create independent multiple copies of installed apps",
-    "app_size": "38.5 MB"
-  },
-  {
-    "app_name": "Parallel Space Pro",
-    "app_icon": "https://raw.githubusercontent.com/gs2000rn-oss/Eun/refs/heads/main/ic_launcher_foreground.png",
-    "app_url": "https://github.com/gs2000rn-oss/Eun/releases/download/v1.0/ParallelSpace_Pro.apk",
-    "app_package": "com.lbe.parallel.intl.arm64",
-    "app_version": "4090",
-    "app_desc": "Run multiple accounts of the same app simultaneously",
-    "app_size": "15.7 MB"
-  },
-  {
-    "app_name": "Island",
-    "app_icon": "https://raw.githubusercontent.com/gs2000rn-oss/Eun/refs/heads/main/ic_launcher_foreground.png",
-    "app_url": "https://github.com/oasisfeng/island/releases/download/v6.0.1/Island-v6.0.1.apk",
-    "app_package": "com.oasisfeng.island",
-    "app_version": "6010",
-    "app_desc": "Isolate apps inside Android Android Work Profile",
-    "app_size": "2.9 MB"
-  },
-  {
-    "app_name": "Shelter",
-    "app_icon": "https://raw.githubusercontent.com/gs2000rn-oss/Eun/refs/heads/main/ic_launcher_foreground.png",
-    "app_url": "https://github.com/gs2000rn-oss/Eun/releases/download/v1.0/Shelter.apk",
-    "app_package": "net.typeblog.shelter",
-    "app_version": "1800",
-    "app_desc": "Open source sandbox using Work Profile features",
-    "app_size": "3.4 MB"
+    "app_name": "Kvaesitso Launcher",
+    "app_icon": "https://cdn-icons-png.flaticon.com/512/3135/3135715.png",
+    "app_url": "https://github.com/MM2-0/Kvaesitso/releases/download/v1.6.2/kvaesitso-v1.6.2.apk",
+    "app_package": "de.mm20.launcher2",
+    "app_version": "1620",
+    "app_desc": "Search-focused minimal open source Android launcher",
+    "app_size": "8.40 MB"
   }
 ]
