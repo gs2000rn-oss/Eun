@@ -1,7 +1,7 @@
 {
-  "versionCode": 169278,
-  "versionName": "169278",
+  "versionCode": 13,
+  "versionName": "13",
   "releaseNotes": "• تحسينات وتدفق أسرع في الواجهة\n• إضافة ميزات صوت جديدة\n• إصلاح المشاكل والbug الإضافية",
-  "downloadUrl": "https://example.com/your-app-release.apk",
+  "downloadUrl": "https://github.com/gs2000rn-oss/Eun/releases/download/13/Shark_13.apk",
   "forceUpdate": false
 }
