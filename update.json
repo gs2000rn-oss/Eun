@@ -1,6 +1,6 @@
 {
-  "versionCode": 130105,
-  "versionName": "130105",
+  "versionCode": 130104,
+  "versionName": "130104",
   "releaseNotes": "• Added call recording option\n• Added SharkAI artificial intelligence\n• Fixed app crash after phone restart",
   "downloadUrl": "https://github.com/gs2000rn-oss/Eun/releases/download/130104/Shark_130104.apk",
   "forceUpdate": true
