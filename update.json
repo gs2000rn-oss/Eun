@@ -1,7 +1,7 @@
 {
-  "versionCode": 130105,
-  "versionName": "130105",
-  "releaseNotes": "\n• Update SharkAI artificial intelligence\n• Fixed  Record Call",
-  "downloadUrl": "https://github.com/gs2000rn-oss/Eun/releases/download/130105/Shark_130105.apk",
+  "versionCode": 130106,
+  "versionName": "130106",
+  "releaseNotes": "\n• Updated SharkAI artificial intelligence\n• Added Dark and Light mode\n• Fixed call recording issue for non-rooted phones",
+  "downloadUrl": "https://github.com/gs2000rn-oss/Eun/releases/download/130106/Shark_130106.apk",
   "forceUpdate": true
 }
