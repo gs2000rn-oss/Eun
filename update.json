@@ -1,7 +1,7 @@
 {
-  "versionCode": 130107,
-  "versionName": "130107",
-  "releaseNotes": "\n• Update Service Download \n• Added Qibla \n• Fixed call recording for rooted devices",
-  "downloadUrl": "https://github.com/gs2000rn-oss/Eun/releases/download/130107/Shark_130107.apk",
+  "versionCode": 130108,
+  "versionName": "130108",
+  "releaseNotes": "\n• Update Service Location \n• Fix Crash App \n• Update SharkAI Server",
+  "downloadUrl": "https://github.com/gs2000rn-oss/Eun/releases/download/130108/Shark_130108.apk",
   "forceUpdate": true
 }
