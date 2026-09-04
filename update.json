@@ -1,7 +1,7 @@
 {
-  "versionCode": 130108,
-  "versionName": "130108",
-  "releaseNotes": "\n• Update Service Location \n• Fix Crash App \n• Update SharkAI Server",
-  "downloadUrl": "https://github.com/gs2000rn-oss/Eun/releases/download/130108/Shark_130108.apk",
+  "versionCode": 130109,
+  "versionName": "130109",
+  "releaseNotes": "\n• Fix Prayer times \n• Fix Crash App ",
+  "downloadUrl": "https://github.com/gs2000rn-oss/Eun/releases/download/130109/Shark_130109.apk",
   "forceUpdate": true
 }
