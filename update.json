@@ -1,7 +1,7 @@
 {
-  "versionCode": 130116,
-  "versionName": "130116",
-  "releaseNotes": "\n• Update Shark Download media server",
-  "downloadUrl": "https://github.com/gs2000rn-oss/Eun/releases/download/130116/Shark_130116.apk",
+  "versionCode": 130117,
+  "versionName": "130117",
+  "releaseNotes": "\n• Update Prayer Times section\n• Add YouTube Plus\n• Add built-in video downloader\n• Update Shark Download media server"
+  "downloadUrl": "https://github.com/gs2000rn-oss/Eun/releases/download/130117/Shark_130117.apk",
   "forceUpdate": true
 }
