@@ -1,7 +1,7 @@
 {
   "versionCode": 130118,
   "versionName": "130118",
-  "releaseNotes": "\n• Update Prayer Times section\n• Add YouTube Plus\n• Add built-in video downloader"
-  "downloadUrl": "https://github.com/gs2000rn-oss/Eun/releases/download/130117/Shark_130117.apk",
-  "forceUpdate": false
+  "releaseNotes": "• Update Prayer Times section\n• Add YouTube Plus\n• Add built-in video downloader",
+  "downloadUrl": "https://github.com/gs2000rn-oss/Eun/releases/download/130118/Shark_130117.apk",
+  "forceUpdate": true
 }
